@@ -1,1 +1,1 @@
-web: gunicorn gradeupp.wsgi
+web: gunicorn restp.wsgi
